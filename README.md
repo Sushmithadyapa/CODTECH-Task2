@@ -16,7 +16,7 @@
 ![WhatsApp Image 2024-11-17 at 23 05 14_f157799a](https://github.com/user-attachments/assets/b33b50a5-c58b-4718-ac09-2bc014559824)
 
 
-**Objective**
+### Objective
 The GPA Calculator project is a command-line application developed in Python that computes the Grade Point Average (GPA) based on user-provided grades for multiple subjects or assignments. The application also assigns a corresponding letter grade based on the average score, using a standard GPA scale.
 
 ### Key Activities:
